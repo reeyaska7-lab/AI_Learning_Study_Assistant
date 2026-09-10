@@ -1,0 +1,23 @@
+Python is a high-level programming language used for software development, automation, data science and artificial intelligence.
+
+Variables are used to store data values in Python.
+
+Python supports different data types such as integer, float, string, list, tuple, set and dictionary.
+
+Operators are symbols used to perform operations on values.
+
+Conditional statements are used to make decisions in a program. Python supports if, elif and else statements.
+
+Loops are used to execute a block of code repeatedly. Python provides for and while loops.
+
+A for loop is commonly used to iterate over a sequence such as a list or string.
+
+A while loop executes a block of code as long as a condition is true.
+
+Functions are reusable blocks of code. The def keyword is used to define a function.
+
+DBMS stands for Database Management System. It is software used to create, store, manage and retrieve data from databases.
+
+A primary key uniquely identifies each record in a database table.
+
+A foreign key is used to create a relationship between tables.
